@@ -1,6 +1,6 @@
 {
   "name": "react-router-fastify",
-  "version": "0.9.1",
+  "version": "0.10.0",
   "description": "Fastify adapter for React Router server builds",
   "keywords": [
     "fastify",
